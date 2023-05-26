@@ -1,0 +1,82 @@
+
+html{
+    background-color:rgb(56, 39, 99);
+    color: white;
+}
+#tif{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:400px;
+}
+
+#div{
+    border:none;
+    background-color:rgb(46, 39, 58);
+    width: 400px; 
+    position: absolute;   
+    height: 460px;
+    align-self: center;
+    border-radius: 10px;
+    text-align: center;
+    
+    
+}
+#divusu{
+    margin-right: 240px;
+}
+#divsen{
+    margin-right: 240px;
+}
+h1{
+    text-align:left;
+    margin-left:50px;
+    text-decoration-line: underline;
+    color: rgb(221, 221, 221);
+}
+
+#botão{
+  color:white;
+    background-color: palevioletred;
+    border: none;
+    height: 50px;
+    border-width: thin;
+    border-top-left-radius: 10px;
+    width:300px;
+    
+
+    
+}
+#usu{
+    border-top:none;
+    border-right:none;
+    border-left:none;
+    background-color:rgb(46, 39, 58);
+    color:white;
+    border-color: white;
+    margin-right: 0px;
+    height:30px;
+    width:290px;
+    
+    
+}
+#indf{
+    border-top:none;
+    border-right:none;
+    border-left:none;
+    border-bottom: none;
+    background-color:rgb(46, 39, 58);
+    color:white;
+  
+}
+#sen{
+    border-top:none;
+    border-right:none;
+    border-left:none;
+    background-color:rgb(46, 39, 58);
+    color:white;
+    border-color: white;
+    margin-right: 0px;
+    height: 30px;
+    width:290px;
+}
